@@ -3,7 +3,7 @@
 - 🌱 I’m expert in Scripting, CI/CD, and DevOps Engineering
 - 💞️ I’m looking to collaborate on projects relating DevOps and Software Development
 - 📫 Contact/reach me jeffreyrivera711@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
