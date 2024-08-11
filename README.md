@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeffrey-Rivera
+- 👋 Hi, I’m Jeffrey-Rivera
 - 👀 I’m interested in DevOps Engineering and Software Development
 - 🌱 I’m expert in Scripting, CI/CD, and DevOps Engineering
 - 💞️ I’m looking to collaborate on projects relating DevOps and Software Development
