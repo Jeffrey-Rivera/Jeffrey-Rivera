@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Jeffrey-Rivera
+- 👋 Hi, I’m Jeffrey-Rivera a.k.a Jeff
 - 👀 I’m interested in DevOps Engineering, Full-stack Engineering, and Software Development
-- 🌱 I’m expert in Scripting, CI/CD, and DevOps Engineering
+- 🌱 I’m expert in DevOps Engineering and Software Development
 - 💞️ I’m looking to collaborate on projects relating DevOps and Software Development
-- 📫 Contact/reach me jeffreyrivera711@gmail.com
+- 📫 Contact/reach me: jeffreyrivera711@gmail.com / +1 5873211122
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
