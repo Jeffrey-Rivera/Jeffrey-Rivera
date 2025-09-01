@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects relating DevOps and Software Development
 - 📫 Contact/reach me: jeffreyrivera711@gmail.com / +15873211122
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Almost every programmer’s first code in any language is Hello, World!. It’s like a rite of passage.
 
 <!---
 Jeffrey-Rivera/Jeffrey-Rivera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
